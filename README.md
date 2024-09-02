@@ -10,3 +10,5 @@
 #GAPIT.Association.GWAS_Results.MLM.CIR10d is the origin result file of GWAS.
 
 #new.fdr.MLMresult.7z is the final result of GWAS with FDR correction.
+
+#highlightsnps.txt is the list of highlight SNPs in the Manhatthan plot.
