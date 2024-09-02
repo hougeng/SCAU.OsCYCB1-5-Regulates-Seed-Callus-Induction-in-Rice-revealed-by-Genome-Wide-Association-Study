@@ -18,7 +18,7 @@ lambda = round(median(z^2, na.rm = TRUE) / 0.454, 3)
 lambda
 
 
-#Manhanttan plot & QQplot
+#Manhattan plot & QQplot
 keySNPs <- read.table("highlightsnps.txt",header = F)
 highlightSNPs <- keySNPs$V2
 QTL <- keySNPs$V1
