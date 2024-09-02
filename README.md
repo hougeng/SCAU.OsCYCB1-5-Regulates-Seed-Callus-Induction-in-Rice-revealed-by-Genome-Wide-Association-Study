@@ -5,3 +5,8 @@
 
 #cir.admixtureQ.xlsx is the result of ADMIXTURE and the original data of population figure.
 
+#FDR_P&P.R is R data of Manhatthan plot, QQolot, Genomic Inflation Factor lambda calculation,and FDR correction.
+
+#GAPIT.Association.GWAS_Results.MLM.CIR10d is the origin result file of GWAS.
+
+#new.fdr.MLMresult.7z is the final result of GWAS with FDR correction.
